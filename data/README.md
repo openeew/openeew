@@ -1,4 +1,5 @@
 # OpenEEW data
+OpenEEW is available as an AWS Public Dataset.
 
 ## Accessing OpenEEW data on AWS
 Files are organized into folders based on country, device and UTC date corresponding to the data; the precise logic to assign data to a file based on date is explained in more detail below. A typical file path will have this form:
