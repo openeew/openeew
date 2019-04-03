@@ -13,7 +13,7 @@ Our accelerometer data will soon be available as an AWS Public Dataset. See [dat
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of how you can get involved, and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for our code of conduct.
 
 ## Authors
 
