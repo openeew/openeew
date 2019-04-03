@@ -9,7 +9,7 @@ OpenEEW is an initiative by Grillo to democratize EEW systems throughout the wor
 
 ## Getting Started
 
-Our accelerometer data will soon be available as an AWS Public Dataset. See [here](data/README.md) for details about how the data is stored. You can use our Python library to facilitate downloading required data. See [here](https://github.com/grillo/openeew-python/blob/master/README.md) for how to install it and some examples of how it can be used.
+Our accelerometer data will soon be available as an AWS Public Dataset. See [data](data/README.md) for details about how the data is stored. You can use our Python library to facilitate downloading required data. See [openeew-python](https://github.com/grillo/openeew-python/blob/master/README.md) for how to install it and some examples of how it can be used.
 
 ## Contributing
 
