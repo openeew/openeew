@@ -1,12 +1,15 @@
 # OpenEEW
 
-Let's create [earthquake early-warning systems](https://en.wikipedia.org/wiki/Earthquake_warning_system/) for every seismically-vulnerable community in the world! 
+Let's create [earthquake early-warning (EEW) systems](https://en.wikipedia.org/wiki/Earthquake_warning_system/) for every seismically-vulnerable community in the world! 
 
-Grillo will be sharing years of raw historic sensor data, including magnitude 6 and 7 earthquakes. This will allow you to develop new detection algorithmns and train machine learning models. Grillo will also be sharing code examples to get you started, and hardware schematics to make your own sensors.
+OpenEEW is an initiative by Grillo to democratize EEW systems throughout the world by sharing our:
+* entire archive of unprocessed accelerometer data from Mexico and Chile, including magnitude 6 and 7 earthquakes
+* algorithms for the detection and characterization of earthquakes in real time
+* hardware designs so you can build your own IoT-based seismic sensors
 
 ## Getting Started
 
-We are almost ready to deploy !! stay tuned.
+Our accelerometer data will soon be available as an AWS Public Dataset. See [here](data/README.md) for details about how the data is stored. You can use our Python library to facilitate downloading required data. See [here](https://github.com/grillo/openeew-python/blob/master/README.md) for how to install it and some examples of how it can be used.
 
 ## Contributing
 
@@ -15,8 +18,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 * **Grillo** - *Initial work* - [Grillo](https://grillo.io)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
