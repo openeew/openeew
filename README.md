@@ -22,7 +22,3 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of how you can get in
 ## License
 
 OpenEEW data license information can be found [here](data/README.md#license).
-
-## Acknowledgments
-
-* Inspired by Stamford's Quake Catcher Network - [QCN](http://qcn.stanford.edu/)
