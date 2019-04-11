@@ -34,6 +34,8 @@ Note that the `x`, `y` and `z` arrays are of the same length and correspond to t
 
 Typically, `cloud_t` and `device_t` differ by less than one second, but occasionally the device time drifts so we suggest to use `cloud_t` as the more reliable measurement timestamp. Ordering data by `cloud_t` and then `device_t` is suggested in rare cases where two records have the same value of `cloud_t`.
 
+Note that the order of data within a given file is not guaranteed.
+
 Individual timestamps can be assigned to each data point in the arrays using the values `cloud_t` (or `device_t`) and the `sr`, i.e. by subtracting from the timestamp a multiple of `1/sr` based on the array index value.
 
 ### How records are assigned to a file
