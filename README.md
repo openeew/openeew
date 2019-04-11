@@ -9,6 +9,8 @@ Let's create earthquake early-warning (EEW) systems for every seismically-vulner
 * algorithms for the detection and characterization of earthquakes in real time
 * hardware designs so you can build your own IoT-based seismic sensors
 
+If you're interested in hosting a sensor in the OpenEEW seismic network, please send us an email at [openeew@grillo.io](mailto:openeew@grillo.io).
+
 ## Getting Started
 
 Our accelerometer data is available as an [AWS Public Dataset](https://registry.opendata.aws/grillo-openeew/). See [data](data/README.md) for details about how the data is stored. You can use our Python library to facilitate downloading required data. See [openeew-python](https://github.com/grillo/openeew-python/blob/master/README.md) for how to install it and some examples of how it can be used.
