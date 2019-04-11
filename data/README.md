@@ -55,7 +55,7 @@ For consistency, we use the same newline-delimited JSON format as used for accel
 - `longitude`: device longitude to 2 decimal places
 - `effective_from`: integer Unix time from which the metadata is valid
 - `effective_to`: integer Unix time until which the metadata is valid
-- `is_current_row`: either 1 or 0 to indicate if the row is currently effective, as an alternative to checking effective dates when searching for current values
+- `is_current_row`: either `true` or `false` to indicate if the row is currently effective, as an alternative to checking effective dates when searching for current values
 - `vertical_axis`: 'x', 'y' or 'z' to specify which axis has vertical orientation
 
 The `effective_from` and `effective_to` are such that there is no overlap, so it is sufficient to check
