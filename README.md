@@ -9,7 +9,7 @@ Let's create earthquake early-warning (EEW) systems for every seismically-vulner
 * algorithms for the detection and characterization of earthquakes in real time
 * hardware designs so you can build your own IoT-based seismic sensors
 
-If you're interested in hosting a sensor in the OpenEEW seismic network, please send us an email at [openeew@grillo.io](mailto:openeew@grillo.io).
+If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please send us an email at [openeew@grillo.io](mailto:openeew@grillo.io).
 
 ## Getting Started
 
