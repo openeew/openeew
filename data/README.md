@@ -4,7 +4,14 @@ OpenEEW data, dating back to 1 December 2017, is available as an AWS Public Data
 ## Accessing OpenEEW data on AWS
 Files are organized into folders based on country, device and UTC date corresponding to the data; the precise logic to assign data to a file based on date is explained in more detail below. A typical file path will have this form:
 ```
-records/country_code=<country_code>/device_id=<device_id>/year=<year>/month=<month>/day=<day>/hour=<hour>/<minute>.jsonl
+records/
+  country_code=<country_code>/
+    device_id=<device_id>/
+      year=<year>/
+        month=<month>/
+          day=<day>/
+            hour=<hour>/
+              <minute>.jsonl
 ```
 Here:
 - `<country_code>` is the ISO 3166 two-digit country code of the country in which device is deployed, as lowercase. e.g. mx, cl
