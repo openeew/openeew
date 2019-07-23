@@ -54,7 +54,9 @@ year-month-day hour:MM <= cloud_t < year-month-day hour:MM + 5 minutes
 ### Device metadata
 Device metadata is stored in the following filepath:
 ```
-devices/country_code=<country_code>/devices.jsonl
+devices/
+  country_code=<country_code>/
+    devices.jsonl
 ```
 
 For consistency, we use the same newline-delimited JSON format as used for accelerometer records. Each JSON contains the following fields:
