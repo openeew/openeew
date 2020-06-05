@@ -25,6 +25,8 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of how you can get in
 
 * **Grillo** - *Initial work* - [Grillo](https://grillo.io)
 
+Enjoy!  Give us [feedback](https://github.com/grillo/openeew]/issues) if you have suggestions on how to improve this information.
+
 ## License
 
-OpenEEW data license information can be found [here](data/README.md#license).
+This information is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
