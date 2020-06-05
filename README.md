@@ -20,11 +20,13 @@ An earthquake early-warning (EEW) system sends real-time alerts to people before
 
 All OpenEEW projects require the following components:
 
-* **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://openeew.com/docs/buy-sensor), or use someone else's network. 
+- **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://openeew.com/docs/buy-sensor), or use someone else's network. 
 <img src="/images/openeew-sensor.svg" alt="sensor" width="200"/>
-* **A detection system running on a server**. You can find instructions for deploying your own [here](https://openeew.com/docs/deploy-detection).
+
+-  **A detection system running on a server**. You can find instructions for deploying your own [here](https://openeew.com/docs/deploy-detection).
 <img src="/images/openeew-detection.svg" alt="detection" width="200"/>
-* **A method for sending alerts**. For example, to a Twitter account, via [a mobile app](https://openeew.com/docs/build-app), or an IoT device. 
+
+- **A method for sending alerts**. For example, to a Twitter account, via [a mobile app](https://openeew.com/docs/build-app), or an IoT device. 
 <img src="/images/openeew-alarm.svg" alt="alarm" width="200"/>
 
 ## Getting Started
