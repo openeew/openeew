@@ -25,7 +25,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details of how you can get in
 
 * **Grillo** - *Initial work* - [Grillo](https://grillo.io)
 
-Enjoy!  Give us [feedback](https://github.com/grillo/openeew]/issues) if you have suggestions on how to improve this information.
+Enjoy!  Give us [feedback](https://github.com/grillo/openeew/issues) if you have suggestions on how to improve this information.
 
 ## License
 
