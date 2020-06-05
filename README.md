@@ -18,6 +18,15 @@ An earthquake early-warning (EEW) system sends real-time alerts to people before
 
 [Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). Grillo's open source initiative, ***OpenEEW***, has standardized a mix of off-the-shelf components, software and know-how, to place effective EEWs within the reach of many underserved communities arond the world.
 
+All OpenEEW projects require the following components:
+
+* **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://openeew.com/docs/buy-sensor), or use someone else's network. 
+<img src="/images/openeew-sensor.svg" alt="sensor" width="200"/>
+* **A detection system running on a server**. You can find instructions for deploying your own [here](https://openeew.com/docs/deploy-detection).
+<img src="/images/openeew-detection.svg" alt="detection" width="200"/>
+* **A method for sending alerts**. For example, to a Twitter account, via [a mobile app](https://openeew.com/docs/build-app), or an IoT device. 
+<img src="/images/openeew-alarm.svg" alt="alarm" width="200"/>
+
 ## Getting Started
 Start by reading this [landing page document section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
 
