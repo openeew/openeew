@@ -13,7 +13,7 @@ Let's create ***earthquake early-warning (EEW) systems*** for every seismically-
 * **Application software** so that users can receive your alerts via mobile apps, devices and more.
 * **Guidance to help with your project** including deployment of sensors, installations, and more.
 
-If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please send us an email at [openeew@grillo.io](mailto:hello@openeew.com).
+If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please send us an email at [hello@openeew.com](mailto:hello@openeew.com).
 
 We have a well-documented [landing site for OpenEEW that](https://openeew.com) provides additional information.
 
