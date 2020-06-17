@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ)
 
 
-<img src="/images/logo.svg" alt="logo" width="350"/>
+<img src="/images/logo.svg" alt="logo" width="150"/>
 
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
