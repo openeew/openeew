@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ)
 
 
-<img src="/images/openeew-logo.svg" alt="grillo logo" width="250"/>
+<img src="/images/openeew-logo.svg" alt="logo" width="250"/>
 
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
@@ -13,7 +13,7 @@ Let's create ***earthquake early-warning (EEW) systems*** for every seismically-
 * **Application software** so that users can receive your alerts via mobile apps, devices and more.
 * **Guidance to help with your project** including deployment of sensors, installations, and more.
 
-If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please send us an email at [openeew@grillo.io](mailto:openeew@grillo.io).
+If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please send us an email at [openeew@grillo.io](mailto:hello@openeew.com).
 
 We have a well-documented [landing site for OpenEEW that](https://openeew.com) provides additional information.
 
@@ -42,7 +42,7 @@ Please read [our contributing guidelines](https://openeew.com/docs/contributing)
 ## Authors
 * **Grillo** - *Initial work* - [Grillo](https://grillo.io)
 
-Enjoy!  Give us [feedback](https://github.com/grillo/openeew/issues) if you have suggestions on how to improve this information.
+Enjoy!  Give us [feedback](https://github.com/openeew/openeew/issues) if you have suggestions on how to improve this information.
 
 ## License
 This information is licensed under the Apache Software License, Version 2.  Separate third party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1 (DCO)](https://developercertificate.org/) and the [Apache Software License, Version 2](http://www.apache.org/licenses/LICENSE-2.0.txt).
