@@ -3,6 +3,8 @@
 
 <img src="/images/logo.svg" alt="logo" width="150"/>
 
+# OpenEEW
+
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
 [OpenEEW](https://openeew.com) is an initiative by [Grillo](https://grillo.io) to democratize EEW systems throughout the world by sharing our:
