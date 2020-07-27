@@ -14,7 +14,7 @@ records/
               <minute>.jsonl
 ```
 Here:
-- `<country_code>` is the ISO 3166 two-digit country code of the country in which device is deployed, as lowercase. e.g. mx, cl
+- `<country_code>` is the ISO 3166 two-digit country code of the country in which device is deployed, as lowercase e.g. mx for Mexico, cl for Chile. 
 - `<device_id>`, of variable length, is the string identifier of the device, e.g. 000, 001. This can be used in conjunction with the device metadata file (see below). It is unique per country
 - `<year>` is the UTC year with century of the data, e.g. 2019
 - `<month>` is the UTC month of the data as a zero-padded decimal, e.g. 01, 02, 11, 12
@@ -30,14 +30,14 @@ Accelerometer data is stored with the same structure as received from the device
 Each file row contains a JSON object with the following fields:
 - `country_code`: same as the folder parameter (see above)
 - `device_id`: same as the folder parameter (see above)
-- `x`: array of accelerometer x-axis decimal values in Gals
-- `y`: array of accelerometer y-axis decimal values in Gals
-- `z`: array of accelerometer z-axis decimal values in Gals
+- `x`: array of accelerometer x-axis decimal values in gals (cm/s2)
+- `y`: array of accelerometer y-axis decimal values in gals (cm/s2)
+- `z`: array of accelerometer z-axis decimal values in gals (cm/s2)
 - `device_t`: device Unix time corresponding to final values of the `x`, `y` and `z` arrays
 - `cloud_t`: Unix time when data was received in the cloud
 - `sr`: sample rate, number of values per second
 
-Note that the `x`, `y` and `z` arrays are of the same length and correspond to the same measurement times, i.e. the nth value in the `x`, `y` and `z` arrays correspond to the same measurement time. The length of the arrays, typically 32, is independent of the sample rate `sr`.
+Note that the `x`, `y` and `z` arrays are of the same length and correspond to the same measurement times, i.e. the nth value in the `x`, `y` and `z` arrays correspond to the same measurement time. The length of the arrays, typically 32 per second, is independent of the sample rate `sr`.
 
 Typically, `cloud_t` and `device_t` differ by less than one second, but occasionally the device time drifts so we suggest to use `cloud_t` as the more reliable measurement timestamp. Ordering data by `cloud_t` and then `device_t` is suggested in rare cases where two records have the same value of `cloud_t`.
 
