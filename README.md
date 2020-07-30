@@ -10,7 +10,7 @@
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
 [OpenEEW](https://openeew.com) is an initiative by [Grillo](https://grillo.io) to democratize EEW systems throughout the world by sharing our:
-* Entire archive of **unprocessed accelerometer data** from Mexico, Chile and other countries, including very large magnitude 6 and 7 earthquakes
+* Entire archive of **unprocessed accelerometer data** from Mexico, Chile and other countries, including earthquakes records with magnitudes above 7 and recorded at different distances 
 * **Algorithms for the detection and characterization of earthquakes** in real time
 * **Software examples** for creating your own EEW server
 * **Hardware designs and firmware** so you can build your own IoT-based seismic sensors
@@ -22,7 +22,9 @@ If you're interested in hosting a sensor in the OpenEEW seismic network or in ac
 We have a well-documented [landing site for OpenEEW that](https://openeew.com) provides additional information.
 
 ## What is an Earthquake Early-Warning (EEW) ?
-An earthquake early-warning (EEW) system sends real-time alerts to people before the shaking arrives. However only several governments have attempted to build EEWs due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
+An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distributionof shaking and distribute the information to comunities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of loss and protect life. 
+
+The alerts are send real-time to people before the shaking or the strong part arrives. However [only several governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
 [Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). Grillo's open source initiative, ***OpenEEW***, has standardized a mix of off-the-shelf components, software and know-how, to place effective EEWs within the reach of many underserved communities arond the world.
 
