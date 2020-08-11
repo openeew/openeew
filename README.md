@@ -26,7 +26,7 @@ An earthquake early-warning (EEW) system is a set of capacities to detect and ch
 
 The alerts are send real-time to people before the shaking or the strong part arrives. However [only several governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
-[Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). Grillo's open source initiative, ***OpenEEW***, has standardized a mix of off-the-shelf components, software and know-how, to place effective EEWs within the reach of many underserved communities arond the world.
+[Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). ***OpenEEW*** is a [Code and Response™ with The Linux Foundation](https://www.linuxfoundation.org/projects/code-and-response/) project that features a set of core Grillo EEW components; hardware, software and know-how, that will place effective EEWs to be within the reach of many underserved communities arond the world.
 
 All OpenEEW projects require the following components:
 
