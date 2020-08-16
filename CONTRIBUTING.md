@@ -11,7 +11,7 @@ OpenEEW is an open source project and we are always happy to receive contributio
 Please read our [contributing guide](https://openeew.com/docs/contributing) here.
 
 ## Technical Steering Committee (TSC)
-The TSC will be responsible for all technical oversign of the OpenEEW project. Participation in the Project through becoming a Contributor and Committer is
+The TSC will be responsible for all technical oversight of the OpenEEW project. Participation in the Project through becoming a Contributor and Committer is
 open to anyone.
 
 The TSC may (1) establish work flow procedures for the submission, approval, and closure/archiving of projects, (2) set requirements for the promotion of
