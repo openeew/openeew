@@ -41,10 +41,10 @@ Quorum for TSC meetings requires at least fifty percent of all voting members of
 will be prevented from making any decisions at the meeting.
 
 ###  Current TSC members
-- [Andres Meira](https://github.com/andygrillo)
-- [Diego Melgar](https://github.com/dmelgarm)
-- [John Walicki](https://github.com/johnwalicki)
-- [Daniel Krook](https://github.com/krook)
-- [Luis Rodriguez](https://github.com/luisera)
-- [Michael Allman](https://github.com/mallmanj)
+- [Andres Meira](https://github.com/andygrillo) - Grillo
+- [Diego Melgar](https://github.com/dmelgarm) - Grillo
+- [John Walicki](https://github.com/johnwalicki) - IBM
+- [Daniel Krook](https://github.com/krook) - IBM
+- [Luis Rodriguez](https://github.com/luisera) - Grillo
+- [Michael Cheng](https://www.linkedin.com/in/priorart) - Facebook
 
