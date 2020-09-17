@@ -17,12 +17,6 @@ Let's create ***earthquake early-warning (EEW) systems*** for every seismically-
 * **Application software** so that users can receive your alerts via mobile apps, devices and more
 * **Guidance to help with your project** including deployment of sensors, installations, and more
 
-We have a well-documented [project site for OpenEEW](https://openeew.com) that provides additional information.
-
-You can also review our [discussion forum](https://github.com/openeew/openeew/discussions) in Github and start your own conversations.
-
-You are also welcome to join our[Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
-
 ## What is an Earthquake Early-Warning (EEW) ?
 An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of loss and protect life. 
 
@@ -44,7 +38,16 @@ All OpenEEW projects require the following components:
 <img src="/images/openeew-alarm.svg" alt="alarm" width="200"/>
 
 ## Getting Started
-Start by reading this [landing page document section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
+Start by reading this [OpenEEW project website section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
+
+You can also review our [Github Discussions forum](https://github.com/openeew/openeew/discussions) and review conversations or start your own thread.
+
+You are also welcome to join our[Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
+
+## Roadmap
+Our current roadmap is as follows:
+
+![Roadmap](https://github.com/openeew/openeew/blob/master/images/openeew-roadmap-v01.png)
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
