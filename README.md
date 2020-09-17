@@ -42,7 +42,7 @@ Start by reading this [OpenEEW project website section](http://openeew.com/docs/
 
 You can also review our [Github Discussions forum](https://github.com/openeew/openeew/discussions) and review conversations or start your own thread.
 
-You are also welcome to join our[Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
+You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
 ## Roadmap
 Our current roadmap is as follows:
