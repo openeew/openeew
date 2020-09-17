@@ -21,7 +21,7 @@ We have a well-documented [project site for OpenEEW](https://openeew.com) that p
 
 You can also review our [discussion forum](https://github.com/openeew/openeew/discussions) in Github and start your own conversations.
 
-If you're interested in hosting a sensor in the OpenEEW seismic network or in accessing real-time data, please let the community know in [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ).
+You are also welcome to join our[Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
 ## What is an Earthquake Early-Warning (EEW) ?
 An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of loss and protect life. 
