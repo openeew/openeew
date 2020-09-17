@@ -47,7 +47,7 @@ You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared
 ## Roadmap
 Our current roadmap is as follows:
 
-![Roadmap](https://github.com/openeew/openeew/blob/master/images/openeew-roadmap-v01.png)
+![Roadmap](https://github.com/openeew/openeew/blob/master/images/openeew-roadmap-v01.svg)
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
