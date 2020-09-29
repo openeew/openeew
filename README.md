@@ -45,9 +45,15 @@ You can also review our [Github Discussions forum](https://github.com/openeew/op
 You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
 ## Roadmap
-Our current roadmap is as follows:
+The high level roadmap is as follows:
 
 ![Roadmap](https://github.com/openeew/openeew/blob/master/images/openeew-roadmap-v01.svg)
+
+Please refer however to the roadmaps in Github for the main repos:
+- [Dashboard roadmap](https://github.com/openeew/openeew-dashboard/projects/1)
+- [Detection docker roadmap]()
+- [Sensor hardware roadmap](https://github.com/openeew/openeew-sensor/projects/1)
+- [Sensor firmware roadmap](https://github.com/openeew/openeew-sensor/projects/2)
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
