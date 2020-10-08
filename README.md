@@ -24,7 +24,7 @@ The alerts are sent in real-time to people before the shaking or the strong part
 
 [Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). 
 
-***OpenEEW*** is a [Code and Response™ with The Linux Foundation](https://www.linuxfoundation.org/projects/code-and-response/) project that features a set of core Grillo EEW components; hardware, software and know-how, that will place effective EEWs to be within the reach of many underserved communities around the world.
+***OpenEEW*** is a [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/code-and-response/) project that features a set of core Grillo EEW components; hardware, software and know-how, that will place effective EEWs to be within the reach of many underserved communities around the world.
 
 All OpenEEW projects require the following components:
 
@@ -40,7 +40,7 @@ All OpenEEW projects require the following components:
 ## Getting Started
 Start by reading this [OpenEEW project website section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
 
-You can also review our [Github Discussions forum](https://github.com/openeew/openeew/discussions) and review conversations or start your own thread.
+You can also review our [GitHub Discussions forum](https://github.com/openeew/openeew/discussions) and review conversations or start your own thread.
 
 You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
