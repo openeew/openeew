@@ -45,6 +45,6 @@ will be prevented from making any decisions at the meeting.
 - [Diego Melgar](https://github.com/dmelgarm) - Grillo
 - [John Walicki](https://github.com/johnwalicki) - IBM
 - [Daniel Krook](https://github.com/krook) - IBM
-- [Luis Rodriguez](https://github.com/luisera) - Grillo
+- [Vaclav Kuna](https://github.com/vkuna) - Seismologist
 - [Michael Cheng](https://www.linkedin.com/in/priorart) - Facebook
 
