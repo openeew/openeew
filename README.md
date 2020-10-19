@@ -3,9 +3,9 @@
 ![CCBYSA](https://img.shields.io/badge/license-CC%20BY%20SA%204-blue)
 
 
-<img src="/images/logo_2020.png" alt="logo" width="auto"/>
+<img src="/images/logo_2020.png" alt="logo" width="400px"/>
 
-# OpenEEW
+
 
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
