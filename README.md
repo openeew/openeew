@@ -3,7 +3,7 @@
 ![CCBYSA](https://img.shields.io/badge/license-CC%20BY%20SA%204-blue)
 
 
-<img src="/images/logo.svg" alt="logo" width="100"/>
+<img src="/images/logo_2020.png" alt="logo" width="auto"/>
 
 # OpenEEW
 
