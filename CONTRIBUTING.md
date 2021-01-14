@@ -47,4 +47,5 @@ will be prevented from making any decisions at the meeting.
 - [Daniel Krook](https://github.com/krook) - IBM
 - [Vaclav Kuna](https://github.com/vkuna) - Seismologist
 - [Michael Cheng](https://www.linkedin.com/in/priorart) - Facebook
+- [Ryan Kelley](http://rdkelley.github.io/) - Software Developer
 
