@@ -22,7 +22,7 @@ An earthquake early-warning (EEW) system is a set of capacities to detect and ch
 
 The alerts are sent in real-time to people before the shaking or the strong part arrives. However, [only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
-[Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than government-run systems](https://openeew.com/blog/eew-benchmark). 
+[Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than some government-run systems](https://openeew.com/blog/eew-benchmark). 
 
 ***OpenEEW*** is a [Call for Code® with The Linux Foundation](https://www.linuxfoundation.org/projects/code-and-response/) project that features a set of core Grillo EEW components; hardware, software and know-how, that will place effective EEWs to be within the reach of many underserved communities around the world.
 
@@ -40,20 +40,11 @@ All OpenEEW projects require the following components:
 ## Getting Started
 Start by reading this [OpenEEW project website section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
 
-You can also review our [GitHub Discussions forum](https://github.com/openeew/openeew/discussions) and review conversations or start your own thread.
-
 You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
 
-## Roadmap
-The high level roadmap is as follows:
+Please refer to the [Github project](https://github.com/orgs/openeew/projects) for the current roadmap.
 
-![Roadmap](https://github.com/openeew/openeew/blob/master/images/openeew-roadmap-v01.svg)
-
-Please refer however to the roadmaps in Github for the main repos:
-- [Dashboard roadmap](https://github.com/openeew/openeew-dashboard/projects/1)
-- [Detection docker roadmap]()
-- [Sensor hardware roadmap](https://github.com/openeew/openeew-sensor/projects/1)
-- [Sensor firmware roadmap](https://github.com/openeew/openeew-sensor/projects/2)
+Each individual Github repo will contain additional issues that need resolving.
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
