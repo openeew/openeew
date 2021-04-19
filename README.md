@@ -28,7 +28,7 @@ The alerts are sent in real-time to people before the shaking or the strong part
 
 All OpenEEW projects require the following components:
 
-- **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://openeew.com/docs/buy-sensor), or use someone else's network. 
+- **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://grillo.io/product/openeew-node/), or use someone else's network. 
 <img src="/images/openeew-sensor.svg" alt="sensor" width="200"/>
 
 -  **A detection system running on a server**. You can find instructions for deploying your own [here](https://openeew.com/docs/deploy-detection-docker).
