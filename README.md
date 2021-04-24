@@ -8,15 +8,15 @@ OpenEEW is an open network of affordable seismic stations distributed around the
 Traditional government-run EEWs have cost 10s millions of USD, but instead OpenEEW relies on modern and affordable off-the-shelf IoT and Cloud technologies. Since 2017 [Grillo has demonstrated](https://grillo.io/comparison-of-mexicos-earthquake-early-warning-systems/) that a cheaper IoT-based EEW can perform as well as an expensive traditional solution.
 
 ## Learn More
-Please refer to the Wiki for more information about Earthquake Early-Warnings, the function, various implementations, and the uniqueness of OpenEEW's open source solution.
+Please refer to the [Wiki](https://github.com/openeew/openeew/wiki) for more information about Earthquake Early-Warnings, the function, various implementations, and the uniqueness of OpenEEW's open source solution.
 
 ## Get Started
-To participate you need an OpenEEW seismic sensor. You can make your own PCB following these instructions, or you can buy one at directly from PCBWay.
+To participate you need an OpenEEW seismic sensor. You can make your own PCB following [these instructions](https://github.com/openeew/openeew-sensor), or you can buy one at directly from [PCBWay]().
 
-Once you have a sensor, please refer to the Wiki for instructions on installation, provisioning, and monitoring.
+Once you have a sensor, please refer to the [Wiki](https://github.com/openeew/openeew/wiki) for instructions on installation, provisioning, and monitoring.
 
 ## Dashboard
-To view sensors and earthquake events you can visit the OpenEEW dashboard. If you have your own sensor you can sign in here and see additional information relating to your device.
+To view sensors and earthquake events you can visit the [OpenEEW dashboard](https://dashboard.openeew.com/). If you have your own sensor you can sign in here and see additional information relating to your device.
 
 ## Contribute
 You can contribute to OpenEEW by
