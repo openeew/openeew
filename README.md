@@ -2,20 +2,56 @@
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) 
 ![CCBYSA](https://img.shields.io/badge/License-CC%20BY%20SA%204-blue)
 
-
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
+OpenEEW is an open network of affordable seismic stations distributed around the world that send data to a detection system for earthquake early-warnings (EEWs). 
+
+Traditional government-run EEWs have cost 10s millions of USD, but instead we rely on modern off-the-shelf IoT and Cloud technologies. Since 2017, Grillo has demonstrated that a cheaper IoT-based EEW can perform as well as an expensive traditional solution.
+
+## Learn More
+Please refer here for more information about the various Earthquake Early-Warnings, their evolution and the uniqueness of our open source solution.
+
+## Get Started
+To participate you need an OpenEEW seismic sensor. You can make your own PCB following these instructions, or you can buy one at directly from PCBWay.
+
+Once you have a sensor, please refer to the Wiki for instructions on installation, provisioning, and monitoring.
+
+## Dashboard
+To view sensors and earthquake events you can visit the OpenEEW dashboard. If you have your own sensor you can sign in here and see additional information relating to your device.
+
+## Contribute
+You can contribute to OpenEEW by
+
+- Providing Pull Requests (Features, Proof of Concepts, Language files or Fixes)
+- Testing new released features and reporting issues
+- Contributing missing documentation for features
+
+Our community is active on [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) where you can ask questions and offer suggestions. Please refer to our [Code of Conduct](https://github.com/openeew/openeew/blob/master/CODE_OF_CONDUCT.md) and [Contributing Guidelines]().
+
+## History
+OpenEEW was initiated by [Grillo](https://grillo.io) in 2019 as a means to share its growing [sensor data](https://registry.opendata.aws/grillo-openeew/) via the AWS Open Data program. In 2020, IBM and Linux Foundation joined to support the open source project and help expand it to include hardware schematics and firmware, as well as code for the detection system, dashboard and alerts.
 
 
 
-Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
-[OpenEEW](https://openeew.com) is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundation to democratize EEW systems throughout the world by sharing our:
-* Entire archive of **unprocessed accelerometer data** from Mexico, Chile and other countries, including earthquakes records with magnitudes above 7 and recorded at different distances 
-* **Algorithms for the detection and characterization of earthquakes** in real time
-* **Software examples** for creating your own EEW server
-* **Hardware designs and firmware** so you can build your own IoT-based seismic sensors
-* **Application software** so that users can receive your alerts via mobile apps, devices and more
-* **Guidance to help with your project** including deployment of sensors, installations, and more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## What is an Earthquake Early-Warning (EEW) ?
 An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of loss and protect life. 
