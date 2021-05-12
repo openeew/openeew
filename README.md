@@ -9,7 +9,7 @@
 
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
-[OpenEEW](https://openeew.com) is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundation to democratize EEW systems throughout the world by sharing our:
+OpenEEW is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundation to create a global earthquake early-warning system (EEW). This includes
 * Entire archive of **unprocessed accelerometer data** from Mexico, Chile and other countries, including earthquakes records with magnitudes above 7 and recorded at different distances 
 * **Algorithms for the detection and characterization of earthquakes** in real time
 * **Software examples** for creating your own EEW server
@@ -18,7 +18,7 @@ Let's create ***earthquake early-warning (EEW) systems*** for every seismically-
 * **Guidance to help with your project** including deployment of sensors, installations, and more
 
 ## What is an Earthquake Early-Warning (EEW) ?
-An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of loss and protect life. 
+An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of injury.
 
 The alerts are sent in real-time to people before the shaking or the strong part arrives. However, [only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
