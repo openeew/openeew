@@ -28,23 +28,19 @@ The alerts are sent in real-time to people before the shaking or the strong part
 
 All OpenEEW projects require the following components:
 
-- **A network of OpenEEW sensors**. You can [build your own](https://openeew.com/docs/build-sensor), [buy here](https://grillo.io/product/openeew-node/), or use someone else's network. 
+- **A network of OpenEEW sensors**. You can [build your own](https://github.com/openeew/openeew-sensor/tree/master/pcb), or [buy here](https://grillo.io/product/openeew-node/).
 <img src="/images/openeew-sensor.svg" alt="sensor" width="200"/>
 
--  **A detection system running on a server**. You can find instructions for deploying your own [here](https://openeew.com/docs/deploy-detection-docker).
+-  **A detection system running on a server**. We host a [global dashboard](https://dashboard.openeew.com) that monitors everyone's devices and reports events.
 <img src="/images/openeew-detection.svg" alt="detection" width="200"/>
 
-- **A method for sending alerts**. For example, to a Twitter account, via [a mobile app](https://openeew.com/docs/build-app), or an IoT device. 
+- **A method for sending alerts**. For example, to a Twitter account, a mobile app, or an IoT device. 
 <img src="/images/openeew-alarm.svg" alt="alarm" width="200"/>
 
 ## Getting Started
-Start by reading this [OpenEEW project website section](http://openeew.com/docs/read-first) which leads to tutorials, guidance and more.
+Start by reading the [Wiki](https://github.com/openeew/openeew/wiki) to get your sensor device up and running.
 
 You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
-
-Please refer to the [Github project](https://github.com/orgs/openeew/projects) for the current roadmap.
-
-Each individual Github repo will contain additional issues that need resolving.
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
