@@ -17,9 +17,9 @@ OpenEEW is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundatio
 * **Guidance to help with your project** including deployment of sensors, installations, and more
 
 ## What is an Earthquake Early-Warning (EEW) ?
-An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of injury.
+An earthquake early-warning (EEW) system is a set of technolgies that detect and characterize a significant earthquake, rapidly sending the information to nearby communities, before the shaking arrives, so that they can prepare and act appropriately.
 
-The alerts are sent in real-time to people before the shaking or the strong part arrives. However, [only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
+[Only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
 ![openeeew-diagram](https://github.com/openeew/openeew/raw/master/images/openeew-diagram2.jpg)
 
