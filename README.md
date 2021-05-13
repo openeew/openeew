@@ -41,7 +41,7 @@ All OpenEEW projects require the following components:
 ## Getting Started
 Start by reading the [Wiki](https://github.com/openeew/openeew/wiki) to get your sensor device up and running.
 
-You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) for getting to know the community and discussing issues in real-time, including the creation of a network for your region.
+You are also welcome to join our [Slack](https://join.slack.com/t/openeew/shared_invite/zt-cibhc0za-XKReMPobi2DsrPusORJZVQ) channel and get to know the community, here we discuss issues in real-time.
 
 ## Contributing
 Please read [our contributing guidelines](https://openeew.com/docs/contributing) for details of how you can get involved, and [Code of Conduct](CODE_OF_CONDUCT.md) for information about how to participate.
