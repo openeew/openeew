@@ -21,7 +21,7 @@ An earthquake early-warning (EEW) system is a set of technolgies that detect and
 
 [Only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
-![openeeew-diagram](https://github.com/openeew/openeew/raw/master/images/openeew-diagram4.jpg)
+![openeeew-diagram](https://github.com/openeew/openeew/raw/master/images/openeew-diagram5.jpg)
 
 [Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than some government-run systems](https://openeew.com/blog/eew-benchmark). 
 
