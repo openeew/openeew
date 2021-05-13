@@ -6,7 +6,6 @@
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
 
 
-
 Let's create ***earthquake early-warning (EEW) systems*** for every seismically-vulnerable community in the world!
 
 OpenEEW is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundation to create a global earthquake early-warning system (EEW). This includes
@@ -21,6 +20,8 @@ OpenEEW is an initiative by [Grillo](https://grillo.io), IBM and Linux Foundatio
 An earthquake early-warning (EEW) system is a set of capacities to detect and characterize a significant earthquake, estimating the distribution of shaking and distribute the information to communities and organizations, enabling individuals to prepare and act appropriately and in sufficient time to reduce the possibility of injury.
 
 The alerts are sent in real-time to people before the shaking or the strong part arrives. However, [only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
+
+![openeeew-diagram](https://github.com/openeew/openeew/raw/master/images/openeew-diagram2.jpg)
 
 [Grillo](https://grillo.io) has already demonstrated that an IoT-based approach to EEW systems is not only within the reach of many global citizens, but [performs as well if not better than some government-run systems](https://openeew.com/blog/eew-benchmark). 
 
