@@ -29,7 +29,7 @@ An earthquake early-warning (EEW) system is a set of technolgies that detect and
 
 All OpenEEW projects require the following components:
 
-- **A network of OpenEEW sensors**. You can [build your own](https://github.com/openeew/openeew-sensor/tree/master/pcb), or [buy here](https://grillo.io/product/openeew-node/).
+- **A network of OpenEEW sensors**. You can [build your own](https://github.com/openeew/openeew-sensor/tree/master/pcb), or [buy here](https://www.pcbway.com/project/gifts_detail/OpenEEW_Node.html).
 <img src="/images/openeew-sensor.svg" alt="sensor" width="200"/>
 
 -  **A detection system running on a server**. We host a [global dashboard](https://dashboard.openeew.com) that monitors everyone's devices and reports events.
