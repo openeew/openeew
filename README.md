@@ -19,7 +19,7 @@ This includes
 * **Guidance to help with your project** including deployment of sensors, installations, and more
 
 ## What is an Earthquake Early-Warning (EEW) ?
-An earthquake early-warning (EEW) system is a set of technolgies that detect and characterize a significant earthquake, rapidly sending the information to nearby communities, before the shaking arrives, so that they can prepare and act appropriately.
+An earthquake early-warning (EEW) system is a set of technologies that detect and characterize a significant earthquake, rapidly sending the information to nearby communities, before the shaking arrives, so that they can prepare and act appropriately.
 
 [Only some governments have attempted to build EEWs](http://www.unesco.org/new/en/natural-sciences/special-themes/disaster-risk-reduction/geohazard-risk-reduction/early-warning-systems/ip-eews/) due to the incredibly high-cost of traditional seismometers, dedicated telecommunications, and bespoke software.
 
