@@ -43,5 +43,5 @@ Quorum for TSC meetings requires at least fifty percent of all voting members of
 - [John Walicki](https://github.com/johnwalicki) - IBM
 - [Daniel Krook](https://github.com/krook) - IBM
 - [Vaclav Kuna](https://github.com/vkuna) - Seismologist
-- [Michael Cheng](https://www.linkedin.com/in/priorart) - Facebook
+- [Kristin Holifield](https://www.linkedin.com/in/kristinholifield) - IBM
 - [Ryan Kelley](https://github.com/rdkelley) - Software Developer
