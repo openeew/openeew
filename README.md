@@ -4,6 +4,10 @@
 
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
 
+*** we have 100 assembled and tested openeew boards available to sell, please contact andres@grillo.io if you are interested ***
+
+
+
 Let's create **_earthquake early-warning (EEW) systems_** for every seismically-vulnerable community in the world!
 
 OpenEEW is an initiative by [Grillo](https://grillo.io), IBM and The Linux Foundation to create low cost, open source, IoT-based earthquake early warning systems (EEWs).
