@@ -4,7 +4,7 @@
 
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
 
-**if you are interested in buying openeew boards, please contact info@grillo.io**
+**if you are interested in buying openeew boards, please contact sensors@grillo.io**
 
 
 
