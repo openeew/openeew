@@ -4,11 +4,11 @@
 
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
 
-**if you are interested in buying openeew boards, please contact sensors@grillo.io**
+**if you are interested in buying openeew sensor boards, please contact sensors@grillo.io**
 
-
-
-
+</br>
+</br>
+</br>
 
 Let's create **_earthquake early-warning (EEW) systems_** for every seismically-vulnerable community in the world!
 
