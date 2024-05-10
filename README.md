@@ -4,7 +4,9 @@
 
 <img src="/images/logo_2020.svg" alt="logo" width="400px"/>
 
-*** we have 100 assembled and tested openeew boards available to sell, please contact andres@grillo.io if you are interested ***
+**if you are interested in buying openeew boards, please contact info@grillo.io**
+
+
 
 
 
